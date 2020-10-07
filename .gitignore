@@ -1,0 +1,9 @@
+*.[oad]
+*~
+*.iso
+*.txt
+
+kern
+asm.S
+obj
+
